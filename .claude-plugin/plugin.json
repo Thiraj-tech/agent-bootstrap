@@ -1,0 +1,8 @@
+{
+  "name": "agent-bootstrap",
+  "version": "0.1.0",
+  "description": "Generate a tailored subagent group for any project, log implementation decisions with /updatemem, write commit messages from staged changes, plus bundled ponytail (lazy/YAGNI mode), code-review, frontend-design and skill-creator.",
+  "author": {
+    "name": "Thiraj Hettiarachchi"
+  }
+}
