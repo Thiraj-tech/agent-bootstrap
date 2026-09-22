@@ -17,7 +17,7 @@ A Claude Code plugin that bootstraps a tailored subagent group for any project a
 ## Install
 
 ```
-/plugin marketplace add <your-github-username>/agent-bootstrap
+/plugin marketplace add Thiraj-tech/agent-bootstrap
 /plugin install agent-bootstrap
 ```
 
