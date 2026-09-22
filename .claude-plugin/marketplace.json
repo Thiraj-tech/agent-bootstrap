@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "agent-bootstrap",
+  "description": "Generate a tailored subagent group for any project, log implementation decisions with /updatemem, write commit messages from staged changes, plus bundled ponytail, code-review, frontend-design and skill-creator.",
+  "owner": {
+    "name": "Thiraj Hettiarachchi",
+    "url": "https://github.com/Thiraj-tech"
+  },
+  "plugins": [
+    {
+      "name": "agent-bootstrap",
+      "description": "Generate a tailored subagent group for any project, log implementation decisions with /updatemem, write commit messages from staged changes, plus bundled ponytail, code-review, frontend-design and skill-creator.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
